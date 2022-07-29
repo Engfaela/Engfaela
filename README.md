@@ -5,9 +5,9 @@
 
 - 🔭 Atualmente estou trabalhando com análise e visualização de dados (https://datamarketingdigital.com.br)
 
-- 🌱 Atualmente estou aprendendo **Python, Análise Exploratória de Dados, SQL**
+- 🌱 Atualmente estou aprendendo **Python, Análise Exploratória de Dados, SQL, Análise de Dados no Google **
 
-- 💬 Me Pergunte Sobre **Excel, Power BI, Catia V5, Python,SQL**
+- 💬 Me Pergunte Sobre **Excel, Power BI, Catia V5, Python, SQL , HTML , CSS , UX & UI **
 
 - 📫 Você me acha **faelauff@hotmail.com**
 
